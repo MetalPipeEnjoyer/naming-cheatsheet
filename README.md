@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# her55mi222ng cheatsheet
+# cheating
 
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
